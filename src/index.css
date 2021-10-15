@@ -29,7 +29,7 @@ h1 .tld {
 
 h2 {
   margin: 0 0 41px;
-  color: #e6e1f3;
+  color: #49b6b4;
   text-align: center;
 }
 
@@ -45,11 +45,11 @@ strong {
 }
 
 ::selection {
-  background: #ff34f9;
+  background: #34a2b9;
 }
 
 ::-moz-selection {
-  background: #ff34f9;
+  background: #34a2b9;
 }
 
 .container {
@@ -63,7 +63,7 @@ strong {
   justify-content: center;
   background: #0d0620;
   border-radius: 30px;
-  box-shadow: 0 0 108px #47299c;
+  box-shadow: 0 0 108px #34a2b9;
 }
 
 .audio-react-recorder {
@@ -103,7 +103,7 @@ button {
   font-weight: 500;
   color: #fff;
   -webkit-appearance: none;
-  background: linear-gradient(to right, #6804ff 0%, #ff4d4d 40%, #ff34f9 70%, #ff3458 100%);
+  background: linear-gradient(to right, #6804ff 0%, #ff4d4d 40%, #34a2b9 70%, #ff3458 100%);
   background-size: 500%;
   border: none;
   border-radius: 5rem;
@@ -186,16 +186,16 @@ button:active {
 
 .rerecord-button {
   font-size: 16px;
-  color: #9783d4;
+  color: #35829c;
   transition: color 0.2s;
 }
 
 .rerecord-button:hover {
-  color: #bfb1ea;
+  color: #329fbd;
 }
 
 .rerecord-button:active {
   position: relative;
   top: 1px;
-  color: #bfb1ea;
+  color: #329fbd;
 }

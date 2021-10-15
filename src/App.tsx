@@ -12,7 +12,7 @@ export default () => {
     <animated.div style={animationProps}>
       <h1>
         <span onClick={() => t.trigger()}>
-          bip39<span className="tld">.xyz</span>
+          audio2bip39<span className="tld">.groestlcoin.org</span>
         </span>
       </h1>
       <AudioRecorder />

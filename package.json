@@ -1,5 +1,5 @@
 {
-  "name": "bip39.xyz",
+  "name": "audio2bip39",
   "version": "1.0.0",
   "description": "Generate a BIP39 mnemonic phrase from an audio recording.",
   "main": "src/index.tsx",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zakangelle/bip39.xyz.git"
+    "url": "git+https://github.com/Groestlcoin/audio2bip39.git"
   },
   "author": "Zak Angelle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zakangelle/bip39.xyz/issues"
+    "url": "https://github.com/Groestlcoin/audio2bip39/issues"
   },
-  "homepage": "https://github.com/zakangelle/bip39.xyz#readme",
+  "homepage": "https://github.com/Groestlcoin/audio2bip39#readme",
   "dependencies": {
     "bip39": "coinkite/bip39",
     "js-sha256": "^0.9.0",
