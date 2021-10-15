@@ -103,7 +103,7 @@ button {
   font-weight: 500;
   color: #fff;
   -webkit-appearance: none;
-  background: linear-gradient(to right, #6804ff 0%, #ff4d4d 40%, #34a2b9 70%, #ff3458 100%);
+  background: linear-gradient(to right, #6804ff 0%, #ff4d4d 40%, #34a2b9 70%, #34a2b9 100%);
   background-size: 500%;
   border: none;
   border-radius: 5rem;
